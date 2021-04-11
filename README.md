@@ -1,6 +1,8 @@
 # Hi, I’m Michal and I am from Brno (Czech Republic)
 
-## <b>I'm looking</b> for a job as a junior coder/ frontend developer
+## <b>I'm looking</b> for a job as a junior coder/ frontend developer.
+I mainly want to improve and be a great developer.
+
 
 [Look at my Linkedin](https://www.linkedin.com/in/vysmich/)
 

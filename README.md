@@ -5,7 +5,7 @@
 [My linkedin profile is here](https://www.linkedin.com/in/vysmich/)
 
 
-[You can to look on my firt website](http://kovo-vyskocil.epizy.com/)
+[You can to look on my first website](http://kovo-vyskocil.epizy.com/)
 
 I’m interested in frontend delevopment, I'm learning javascript. Currently i am going to learn some javascript framework (probably Vue)and Node.
 

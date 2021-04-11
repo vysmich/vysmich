@@ -1,14 +1,13 @@
-# Hi, I’m @vysmich i am from Czech Republic (from Brno)
+# Hi, I’m @vysmich and I am from Brno (Czech Republic)
 
-## Now <b>I'm looking</b> for a job as a junior coder/ frontend developer
+## <b>I'm looking</b> for a job as a junior coder/ frontend developer
 
-[My linkedin profile is here](https://www.linkedin.com/in/vysmich/)
+[Look at my Linkedin](https://www.linkedin.com/in/vysmich/)
 
 
-[You can to look on my first website](http://kovo-vyskocil.epizy.com/)
+[Look at my first website](http://kovo-vyskocil.epizy.com/)
 
 I’m interested in frontend delevopment, I'm learning javascript. Currently i am going to learn some javascript framework (probably Vue)and Node.
-
 
 
 <!---

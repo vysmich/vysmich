@@ -1,4 +1,4 @@
-# Hi, I’m @vysmich and I am from Brno (Czech Republic)
+# Hi, I’m Michal and I am from Brno (Czech Republic)
 
 ## <b>I'm looking</b> for a job as a junior coder/ frontend developer
 
@@ -13,13 +13,20 @@ I’m interested in frontend delevopment, I'm learning javascript. Currently i a
 * HTML
 * SCSS
 * JavaScript
-* GIT
 * Bootstrap
+* GIT
 * NPM
 * Parcel Bundler
 * Webpack
 * Prettier
 
+
+### I want to learn:
+* English better (the current level of my English is reading documentation)
+* Node.js
+* Vue.js or React.js
+* Express.js
+* MongoDB
 
 <!---
 vysmich/vysmich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

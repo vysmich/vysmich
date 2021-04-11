@@ -9,6 +9,17 @@
 
 I’m interested in frontend delevopment, I'm learning javascript. Currently i am going to learn some javascript framework (probably Vue)and Node.
 
+### I have experinence with:
+* HTML
+* SCSS
+* JavaScript
+* GIT
+* Bootstrap
+* NPM
+* Parcel Bundler
+* Webpack
+* Prettier
+
 
 <!---
 vysmich/vysmich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

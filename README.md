@@ -9,7 +9,7 @@ I want to improve my skills in website development and be a great developer.
 
 [Look at my first website](http://kovo-vyskocil.epizy.com/)
 
-I’m interested in frontend delevopment, I'm learning javascript. Currently i am going to learn some javascript framework (probably Vue) and Node.
+I’m interested in website delevopment, I'm learning javascript. Currently i am going to learn some javascript framework (probably Vue) and Node.
 
 ### I have experinence with:
 * HTML

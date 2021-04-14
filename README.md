@@ -7,7 +7,7 @@ I want to improve my skills in website development and be a great developer.
 [Look at my Linkedin](https://www.linkedin.com/in/vysmich/)
 
 
-[Look at my first website](http://kovo-vyskocil.epizy.com/)
+[Look at my first website](https://kovo-vyskocil.cz/)
 
 I’m interested in website delevopment, I'm learning javascript. Currently i am going to learn some javascript framework (probably Vue) and Node.
 

@@ -9,7 +9,9 @@ I want to improve my skills in website development and be a great developer.
 
 [Look at my first website](https://kovo-vyskocil.cz/)
 
-I’m interested in website delevopment, I'm learning javascript. Currently i am going to learn some javascript framework (probably Vue) and Node.
+[Look at my second website](http://kaceni-solar.cekuj.net/) (I am waiting for the delivery of text and photos)
+
+
 
 ### I have experinence with:
 * HTML
@@ -22,11 +24,13 @@ I’m interested in website delevopment, I'm learning javascript. Currently i am
 * Webpack
 * Prettier
 
+###  I’m  currently learning:
+* English better (the current level of my English is reading documentation)
+* React.js
 
 ### I want to learn:
-* English better (the current level of my English is reading documentation)
+
 * Node.js
-* Vue.js or React.js
 * Express.js
 * MongoDB
 

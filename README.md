@@ -1,28 +1,25 @@
-# Hi, I’m Michal and I am from Brno (Czech Republic)🇨🇿
-
-## <b>I'm looking</b> for a job as a junior coder/ frontend developer.
-I want to improve my skills in website development and be a great developer.
+# Hi, I’m Michal from Brno (Czech Republic)🇨🇿
 
 
-[Look at my Linkedin](https://www.linkedin.com/in/vysmich/)
+## About me: <img src="https://www.animated-smileys.com/emoticons/animated-smileys-hello-22.gif.pagespeed.ce.aliyMja8Vi.gif">
 
+[My Linkedin](https://www.linkedin.com/in/vysmich/)
 
-[Look at my first website](https://kovo-vyskocil.cz/)
+## My work: <img src="https://www.animated-smileys.com/emoticons/animated-smileys-office-10.gif.pagespeed.ce.at70cSVZk2.gif">
+[My first website](https://kovo-vyskocil.cz/)
 
-[Look at my second website](http://kaceni-solar.cekuj.net/) (I am waiting for the delivery of text and photos)
+[My second website](http://kaceni-solar.cekuj.net/) (I am waiting for the delivery of text and photos)
 
+[My react training room](https://vysmich.github.io/my_react_training_room/) 
 
+## My experinence: <img src="https://www.animated-smileys.com/emoticons/animated-smileys-character-092.gif.pagespeed.ce.50T-Z3p9Gp.gif">
 
 ### I have experinence with:
-* HTML
-* SCSS
-* JavaScript
-* Bootstrap
-* GIT
-* NPM
-* Parcel Bundler
-* Webpack
-* Prettier
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"><img src="https://img.icons8.com/color/48/000000/css3.png"><img src="https://img.icons8.com/color/48/000000/javascript.png"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://parceljs.org/assets/parcel-og.png" width="48px"/><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="48px"/><img src="https://prettier.io/icon.png" width="48px"/>
+
+
+
+
 
 ###  I’m  currently learning:
 * English better (the current level of my English is reading documentation)

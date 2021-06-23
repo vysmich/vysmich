@@ -1,4 +1,4 @@
-# Hi, I’m Michal from Brno (Czech Republic)🇨🇿
+ <img src="https://vysmich.github.io/my_react_training_room/static/media/gif.e39df574.gif">
 
 
 ## About me: <img src="https://www.animated-smileys.com/emoticons/animated-smileys-hello-22.gif.pagespeed.ce.aliyMja8Vi.gif">

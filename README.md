@@ -1,4 +1,4 @@
- <img src="https://vysmich.github.io/my_react_training_room/static/media/gif.e39df574.gif">
+ <img src="https://vysmich.github.io/my_react_training_room/static/media/gif.63bfff66.gif">
 
 
 ## About me: <img src="https://www.animated-smileys.com/emoticons/animated-smileys-hello-22.gif.pagespeed.ce.aliyMja8Vi.gif">

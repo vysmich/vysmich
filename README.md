@@ -3,6 +3,9 @@
 
 ## About me: 
 I am a lover of sci-fi and fantasy movies, nature and good food. I've been studying web development for more than a year and a half and I am constantly improving my skills. My goal is to be a full-stack javascript developer.Look at [my LinkedIn](https://www.linkedin.com/in/vysmich/) or scroll below for my code.
+ [<img src="https://www.google.com/gmail/about/static/images/logo-gmail.png" width="48px" >](vysmich@gmail.com)[<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="48px">](https://www.linkedin.com/in/vysmich/)
+
+
 
 
 ## My work: 

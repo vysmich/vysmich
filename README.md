@@ -15,20 +15,20 @@
 ## My experinence: 
 ### I have experinence with:
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"><img src="https://img.icons8.com/color/48/000000/css3.png"><img src="https://img.icons8.com/color/48/000000/javascript.png"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://parceljs.org/assets/parcel-og.png" width="48px"/><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="48px"/><img src="https://prettier.io/icon.png" width="48px"/>
-
+---
 
 
 
 
 ###  I’m  currently learning:
-* English better (the current level of my English is reading documentation)
-* React.js
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+English better (the current level of my English is reading documentation)
+
+---
 
 ### I want to learn:
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://www.itnetwork.cz/images/46772/lekce5/mdb.png" height="48px" width="48px"/>
 
-* Node.js
-* Express.js
-* MongoDB
 
 <!---
 vysmich/vysmich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 
 ## About me: 
-I am a lover of sci-fi and fantasy movies, nature and good food. I'm studying web development for more than a year and a half and I am constantly improving my skills. My goal is to be a fullstack javascript developer. Look at [my LinkedIn](https://www.linkedin.com/in/vysmich/) or scroll below for my code.
+I am a lover of sci-fi and fantasy movies, nature and good food. I've been studying web development for more than a year and a half and I am constantly improving my skills. My goal is to be a full-stack javascript developer.Look at [my LinkedIn](https://www.linkedin.com/in/vysmich/) or scroll below for my code.
 
 
 ## My work: 

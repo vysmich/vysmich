@@ -2,7 +2,7 @@
 
 
 # About me: 
-I am a lover of sci-fi and fantasy movies, nature and good food. I've been studying web development for more than a year and a half and I am constantly improving my skills. My goal is to be a full-stack javascript developer.Look at [my LinkedIn](https://www.linkedin.com/in/vysmich/) or scroll below for my code.
+I am a lover of sci-fi and fantasy movies, nature and good food. I've been studying web development for more than a year and a half and I am constantly improving my skills. Look at [my LinkedIn](https://www.linkedin.com/in/vysmich/) or scroll below for my code.
  
 #### Contact me:
 [<img src="https://www.google.com/gmail/about/static/images/logo-gmail.png" width="48px" >](mailto:vysmich@gmail.com) [<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="48px">](https://www.linkedin.com/in/vysmich/)
@@ -30,10 +30,9 @@ I am a lover of sci-fi and fantasy movies, nature and good food. I've been study
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
  English better (the current level of my English is reading documentation)
 
----
 
-### I want to learn:
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://www.itnetwork.cz/images/46772/lekce5/mdb.png" height="48px" width="48px"/><img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" height="48px" width="48px"/><img src="https://expressjs.com/images/express-facebook-share.png" height="48px" /><img src="https://images.squarespace-cdn.com/content/v1/58d806f8cd0f6848b7a002fb/1522037243545-XDH44I6NCUH2M0GDC88M/react-native-banner2.png" height="40px" />
+
+
 
 
 

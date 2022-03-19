@@ -17,7 +17,7 @@ I am a lover of sci-fi and fantasy movies, nature and good food. I have been wor
 
 
 ###  I’m  currently learning:
-<img src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67"/><img src="https://blog.logrocket.com/wp-content/uploads/2020/11/Nextjs-logo.png" width="100px"><img src="https://www.svgrepo.com/show/354399/strapi-icon.svg"  width="42px"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48px">
+<img src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67"/> <img src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" width="48px"> <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg"  width="42px"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48px">
 
 English better (the current level of my English is reading documentation)
 
